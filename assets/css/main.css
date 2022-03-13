@@ -1,0 +1,67 @@
+/*Variable*/
+@import url("./common/var.css");
+
+/*Template-header*/
+@import url("./UI/template-header.css");
+
+/*Base Button*/
+@import url("./UI/base-btn.css");
+
+/*Base Line*/
+@import url("./UI/base-line.css");
+
+/*Main title*/
+@import url("./UI/main-title.css");
+
+/*Main description*/
+@import url("./UI/main-description.css");
+
+/*Email*/
+@import url("./UI/base-email.css");
+
+/*Vector*/
+
+/*Typography*/
+@import url("./reset.css");
+
+@import url("../media/fonts/fonts.css");
+
+/* @import url("./responsive.css"); */
+
+/*Common*/
+@import url("./common/header.css");
+
+/*Footer*/
+@import url("./common/footer.css");
+
+/*Pages*/
+
+/*Home*/
+@import url("./pages/home.css");
+
+/*About*/
+
+@import url("./pages/about.css");
+
+/*Price*/
+@import url("./pages/price.css");
+
+/*Contact*/
+@import url("./pages/contact.css");
+
+
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1060px;
+  margin: 0 auto;
+}

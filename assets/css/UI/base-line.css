@@ -1,0 +1,5 @@
+.base-line {
+  background-color: var(--primary);
+  padding: 2px  25px;
+  display: block;
+}

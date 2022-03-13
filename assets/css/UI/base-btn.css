@@ -1,0 +1,22 @@
+.base-btn {
+  border-radius: 2px;
+  /* border: 1px solid var(--primary); */
+  border: none;
+  background-color: var(--primary);
+  font-size: 14px;
+  line-height: 20px;
+  color:  var(--sixth);
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 15px 30px;
+  cursor: pointer;
+  font-family: "Montserrat";
+  transition: 0.8s;
+
+}
+
+.base-btn:hover {
+	background-color: var(--secondary);
+  transform: translateY(8px);
+} 
